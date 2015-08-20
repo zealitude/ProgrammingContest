@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		A397CE7B1B861C0900433755 /* TwoSum.cpp in Sources */ = {isa = PBXBuildFile; fileRef = A397CE791B861C0900433755 /* TwoSum.cpp */; };
 		A3EE0A4D1B84CA740069E9C0 /* mergeTwoLists.cpp in Sources */ = {isa = PBXBuildFile; fileRef = A3EE0A4C1B84CA740069E9C0 /* mergeTwoLists.cpp */; };
 /* End PBXBuildFile section */
 
@@ -23,6 +24,7 @@
 /* End PBXCopyFilesBuildPhase section */
 
 /* Begin PBXFileReference section */
+		A397CE791B861C0900433755 /* TwoSum.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = TwoSum.cpp; sourceTree = "<group>"; };
 		A39F867D1B84C9DB00C4AC3D /* ProgrammingContest */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = ProgrammingContest; sourceTree = BUILT_PRODUCTS_DIR; };
 		A3EE0A4C1B84CA740069E9C0 /* mergeTwoLists.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = mergeTwoLists.cpp; sourceTree = "<group>"; };
 /* End PBXFileReference section */
@@ -58,6 +60,7 @@
 			isa = PBXGroup;
 			children = (
 				A3EE0A4C1B84CA740069E9C0 /* mergeTwoLists.cpp */,
+				A397CE791B861C0900433755 /* TwoSum.cpp */,
 			);
 			path = ProgrammingContest;
 			sourceTree = "<group>";
@@ -118,6 +121,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				A397CE7B1B861C0900433755 /* TwoSum.cpp in Sources */,
 				A3EE0A4D1B84CA740069E9C0 /* mergeTwoLists.cpp in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
